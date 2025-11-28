@@ -1,4 +1,5 @@
 # AI Quiz App
+![Project Screenshot](./public/quiz.png)
 
 An interactive AI-powered quiz application with auto-generated questions, timed tests, audio cues, real-time scoring, analytics, and Google Sheets result tracking.
 
